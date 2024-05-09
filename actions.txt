@@ -1,0 +1,6 @@
+#In commmand line:
+    npm init -y
+    npm i chalk chalk-animation figlet gradient-string inquirer nanospinner
+
+#In package.json:
+    "type": "module",
